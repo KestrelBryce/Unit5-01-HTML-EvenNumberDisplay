@@ -25,6 +25,7 @@ function displayGreeting () {
     counter = counter + 1
   }
 
+
   // return string
   document.getElementById("greeting").innerHTML = numbers
     
