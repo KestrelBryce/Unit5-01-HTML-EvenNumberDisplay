@@ -1,0 +1,1 @@
+[![GitHub's Super Linter](https://github.com/KestrelBryce/Unit5-01-HTML-EvenNumberDisplay/actions/workflows/main.yml/badge.svg)](https://github.com/KestrelBryce/Unit5-01-HTML-EvenNumberDisplay/actions)
